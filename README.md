@@ -31,8 +31,8 @@ This is the Inference API version of [archetypeai-earthquake-demo](https://githu
 Requires Node.js 20 or later:
 
 ```bash
-git clone https://github.com/archetypeai/archetypeai-earthquake-demo-model-serving.git
-cd archetypeai-earthquake-demo-model-serving
+git clone https://github.com/archetypeai/archetypeai-earthquake-demo-inference-api.git
+cd archetypeai-earthquake-demo-inference-api
 npm install
 cp .env.example .env      # then add your API key
 ```
